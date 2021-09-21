@@ -1,0 +1,1 @@
+Originally forked from https://github.com/philipperemy/amazon-reviews-scraper
